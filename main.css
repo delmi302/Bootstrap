@@ -1,0 +1,80 @@
+/* =============================
+
+    GENERAL STYLES
+
+=============================*/
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.page-header, h2, h3 {
+  font-family: "Cormorant Garamond", Monaco, Monospace;
+}
+
+li, a, i {
+  font-family: "Proza Libre", Monaco, Monospace;
+}
+
+body {
+  background: url('https://i.imgur.com/Wo1wdHjh.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* =============================
+
+    HEADER STYLES
+
+=============================*/
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.jumbotron {
+  background: url('https://i.imgur.com/6huke3Gh.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* =============================
+
+    BODY STYLES
+
+=============================*/
+
+.alert, .panel {
+  width: 94%;
+  margin: auto;
+}
+
+.alert {
+  margin-bottom: 10%;
+}
+
+.panel {
+  margin-bottom: 5%;
+  
+}
+
+.glyphicon-check {
+  float: right;
+}
+
+.list-group {
+  padding-right: 1%!important; 
+  padding-left:1%!important;
+}
+
+.list-group-item {
+  text-align: center;
+}
+
+.col-xs-4 {
+  text-align: center;
+}
